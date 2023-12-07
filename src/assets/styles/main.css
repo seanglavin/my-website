@@ -1,0 +1,28 @@
+:root {
+    --primary-light: #f5f5f5;
+    --secondary-blue-light: #053a59;
+    --secondary-blue-dark: #04314e;
+    --accent-color: #ff5a5f;
+    --primary-dark: #021927;
+    --secondary-dark: #232323;
+}
+
+/* @font-face {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    src: local("Roboto"), url("./public/fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    src: local("IBMPlexMono"), url("./public/fonts/IBMPlexMono/IBMPlexMono-Regular.ttf") format("truetype");
+} */
+
+body {
+    color: var(--primary-light);
+}
