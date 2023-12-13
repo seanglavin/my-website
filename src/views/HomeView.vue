@@ -1,9 +1,15 @@
 <template>
-    <div class="home">
-        <h1>This is the Home Page</h1>
-    </div>
+  <div class="home">
+    <HeroLeft />
+  </div>
 </template>
 
 <script>
+import HeroLeft from '@/components/HeroLeft.vue'
 
+export default {
+  components: {
+    HeroLeft
+  }
+}
 </script>
