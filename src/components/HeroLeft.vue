@@ -8,7 +8,7 @@
         <h1 class="text-3xl font-extrabold sm:text-5xl text-left">
           Sean Glavin
 
-          <strong class="block font-extrabold text-rose-700"> Welcome to my page. </strong>
+          <strong class="block font-extrabold text-accentColor"> Welcome to my page. </strong>
         </h1>
 
         <p class="mt-4 max-w-lg sm:text-xl/relaxed text-left">
@@ -18,7 +18,7 @@
 
         <div class="mt-8 flex flex-wrap gap-4 text-center">
           <a href="#"
-            class="block w-full rounded bg-rose-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-rose-700 focus:outline-none focus:ring active:bg-rose-500 sm:w-auto">
+            class="block w-full rounded bg-accentColor px-12 py-3 text-sm font-medium shadow hover:bg-accentColor2 focus:outline-none focus:ring sm:w-auto">
             Contact Me
           </a>
 

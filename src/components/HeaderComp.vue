@@ -3,7 +3,8 @@
     <nav class="top-bar-nav flex items-center justify-center gap-2">
       <!-- Add nav icons later! -->
       <!-- <i class="icon-home"></i> -->
-      <router-link class="nav-bar-link font-bold text-primaryLight hover:text-accentColor" v-for="(link, index) in headerLinks" :key="index" :to="link.to">
+      <router-link class="nav-bar-link font-bold text-primaryLight hover:text-accentColor"
+        v-for="(link, index) in headerLinks" :key="index" :to="link.to">
         <span>{{ link.text }}</span>
         <!-- add a | between each link -->
         <span v-if="index < headerLinks.length - 1" class="text-primaryLight"> | </span>

@@ -1,6 +1,6 @@
 <template>
   <button
-    class="block w-full rounded bg-rose-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-rose-700 focus:outline-none focus:ring active:bg-rose-500 sm:w-auto"
+    class="block w-full rounded bg-accentColor px-12 py-3 text-sm font-bold shadow hover:bg-accentColor2 focus:outline-none focus:ring sm:w-auto"
     @click="handleClick">
     <slot>{{ buttonText }}</slot>
   </button>
