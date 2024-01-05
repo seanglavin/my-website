@@ -16,17 +16,17 @@
           numquam ea!
         </p>
 
-        <div class="mt-8 flex flex-wrap gap-4 text-center">
+        <!-- <div class="mt-8 flex flex-wrap gap-4 text-center">
           <a href="#"
             class="block w-full rounded bg-accentColor px-12 py-3 text-sm font-medium shadow hover:bg-accentColor2 focus:outline-none focus:ring sm:w-auto">
             Contact Me
           </a>
 
-          <!-- <a href="#"
+          <a href="#"
             class="block w-full rounded bg-white px-12 py-3 text-sm font-medium text-rose-600 shadow hover:text-rose-700 focus:outline-none focus:ring active:text-rose-500 sm:w-auto">
             In My Spare Time
-          </a> -->
-        </div>
+          </a>
+        </div> -->
       </div>
     </div>
 

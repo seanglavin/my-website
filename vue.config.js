@@ -9,5 +9,12 @@ module.exports = defineConfig({
         'img-src': ['self', 'data:', '@/assets/images/']
       }
     }
+  },
+  configureWebpack: {
+    resolve: {
+      alias: {
+        
+      }
+    }
   }
 })
